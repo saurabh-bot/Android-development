@@ -12,6 +12,8 @@ This app contains:
 3. quiz
 4. web search
 5. camera
-6. Login and signup option
+6. Login and signup option 
+
+For checking codes go in folders like this: Project/app/src/main/java/com/example/user/project/
 
 
